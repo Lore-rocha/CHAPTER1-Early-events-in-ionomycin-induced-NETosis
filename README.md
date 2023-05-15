@@ -1,6 +1,6 @@
 # Early-events-in-ionomycin-induced-NETosis
 
-Supplementary tables from the chapert 1 of the thesis
+Supplementary tables from the chapter 1 of the thesis
 
 Author: Lorenna Rocha Reis
 
