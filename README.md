@@ -23,6 +23,7 @@ Supplemental Tables:
 - Table 3B: Proteins found in higher proportion on the nucleus and/or organelles fractions but reduced on the soluble proteins fraction and/or in the secretome of ionomycin-treated neutrophils
 - Table 3C: Enrichment results of proteins that are proportionally enriched in the nucleus and proportionally reduced in the secretome and/or soluble proteins fraction of ionomycin-treated neutrophils
 - Table 3D: Enrichment results of proteins that are proportionally enriched in the organellar fraction and proportionally reduced in the secretome and soluble proteins fraction of ionomycin-treated neutrophils
-
+- Table 4A: Exclusives and common citrullinated proteins in the fractions of nucleus, organelles, soluble proteins and secretome. Peptides marked with "*" were exclusive to one individual. All proteins described were identified in at least 2 out of 3 individuals.
+- Table 4B: Statistical analysis of common citrullinated proteins of each individual. Peptides marked with "*" were exclusive to one individual. All proteins described were identified in at least 2 out of 3 individuals.
 
 
